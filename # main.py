@@ -1,5 +1,5 @@
 # main.py
-from task import Task
+from Task import Task
 from file_handler import load_tasks, save_tasks
 from utilities import validate_title, validate_deadline
 
