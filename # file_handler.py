@@ -1,6 +1,6 @@
 # file_handler.py
 import csv
-from Task import Task
+from task import Task
 
 DATA_FILE = 'tasks.csv'
 
